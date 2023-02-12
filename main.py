@@ -1,0 +1,2 @@
+from texttospeech import texttospeech
+text = texttospeech('Cho bạn Minh một bản thu dài 2p20s , nhà đài yêu cầu chia bản thu thành các đoạn nhỏ mỗi đoạn dài 12,5s yêu cầu tính toán số bản thu nhận được ')
